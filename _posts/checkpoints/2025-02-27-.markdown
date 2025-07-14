@@ -1,7 +1,0 @@
----
-date:   2025-02-27 09:12:38 +0000
----
-
-17点13分。读了一篇[PhD读后感][1]，emo了。
-
-[1]: https://kobzol.github.io/research/2024/11/12/phd-postmortem.html
